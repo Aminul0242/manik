@@ -136,7 +136,7 @@ http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/tYQ8nyH.png" group-title="Sports",Live Sports
-https://prod-fastly-ap-southeast-1.video.pscp.tv:443/Transcoding/v1/hls/8vdM7bX1ZyBT-JyCOsUx6Ib5-l1qclpZBzIx5VVAmKb3jWRvPQcw4yLONhwAjNC265xPUlQ34ftc1UQCkDs4Nw/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=RK
+https://sonydaime.akamaized.net/hls/live/2005445-b/DAI6ME/hdntl=exp=1626855048~acl=/*~id=6033b589-75a8-4541-9f45-8f512a6ad526~data=hdntl~hmac=6886f5cbdfa8346fea2161fa068961476a9d5f615c582ad91984d1b4d6af6a13/master_1848.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://199.66.95.242:80/3/3096/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
