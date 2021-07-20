@@ -48,6 +48,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 http://tv.pmcon.net/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 http://tv.pmcon.net/hls/stream26.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD (2)
+http://tv.pmcon.net/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 http://tv.pmcon.net/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
@@ -140,8 +142,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="English",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
 http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=SS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
@@ -158,8 +158,6 @@ http://199.66.95.242:80/3/3096/index.m3u8?token=test
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
 http://103.109.56.116/live/skyfeed1018/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 SD
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
