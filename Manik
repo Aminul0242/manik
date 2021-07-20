@@ -136,7 +136,7 @@ http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/tYQ8nyH.png" group-title="Sports",Live Sports
-https://sonydaime.akamaized.net/hls/live/2005445-b/DAI6ME/hdntl=exp=1626855048~acl=/*~id=6033b589-75a8-4541-9f45-8f512a6ad526~data=hdntl~hmac=6886f5cbdfa8346fea2161fa068961476a9d5f615c582ad91984d1b4d6af6a13/master_1848.m3u8
+https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=exp=1626775329~acl=/*~id=28153824703925956539166387474800~hmac=b2ca532f6c0fc775601611ada0edafab6a324758579912e9467b807114938286
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://199.66.95.242:80/3/3096/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
