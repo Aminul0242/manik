@@ -188,8 +188,8 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6585
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7142
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Sports",SUPERSPORT CRICKET HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6583
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Sports",SUPERSPORT FOOTBAL HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6576
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
+http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Sports",SUPERSPORT ACTION HD
 http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK
 
