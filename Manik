@@ -167,6 +167,7 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=RK
+# http://199.66.95.242:80/3/3099/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
