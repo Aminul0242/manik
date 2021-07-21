@@ -191,7 +191,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6581
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8 
+http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay Bangla
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
